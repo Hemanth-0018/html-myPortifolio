@@ -664,7 +664,8 @@ button{
 .about-image {
     margin-bottom: 0 ; /* Remove bottom margin on larger screens */
 }
-
+#home{
+    text-align:center;
 #skills{
     text-align: center;
 }
