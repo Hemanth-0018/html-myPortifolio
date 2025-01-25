@@ -662,10 +662,11 @@ button{
     transform: rotateY(180deg); /* Start flipped by default */
 }
 .about-image {
-    margin-bottom: 0 ; /* Remove bottom margin on larger screens */
+    margin-bottom: 0 ;
 }
 #home{
-    text-align:center;
+    text-align: center;
+}
 #skills{
     text-align: center;
 }
